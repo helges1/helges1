@@ -1,9 +1,3 @@
 # Hallo alle sammen 👋
 
-![Påmeldingen er nå åpen!](https://raw.githubusercontent.com/echo-karriere/echo-karriere-static/main/meta_thumbnails/echo_pamelding.png "Påmeldingen er nå åpen!")
-
-Ønsker du og din bedrift å delta på echo karriere i september?🤔 Påmeldingen er nå åpen!🥳 En fantastisk mulighet til å vise frem bedriften for IT-studenter i Bergensområdet.⛰️⛰️⛰️⛰️⛰️⛰️⛰️
-
-## [Klikk her](https://www.echokarriere.no/for-bedrifter/pamelding/) for å starte påmeldingen📝
-
 [![Helges1's GitHub stats](https://github-readme-stats.vercel.app/api?username=helges1)](https://github.com/helges1/github-readme-stats)
